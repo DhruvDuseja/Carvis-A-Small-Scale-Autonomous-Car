@@ -1,5 +1,5 @@
 # Carvis-A-Small-Scale-Autonomous-Car
-### Alt-A small-scale rudimentary implementation of a self driving car :red_car:
+### A small-scale rudimentary implementation of a self driving car :red_car:
 
 ## The Idea
 To make an autonomous car using an Arduino Uno (which _surprisingly_ did not work.)
