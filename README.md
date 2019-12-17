@@ -15,10 +15,12 @@ The car itself was not modified in any way.
 The remote control was modified and connected to the Arduino.
 
 The remote control without the backpanel
-![Remote control without backpanel] (/Media/Out_the_box.jpg)
+
+![Remote control without backpanel] (./Media/Out_the_box.jpg)
 
 The remote control with the joysticks removed
-![Remote control w/o joysticks] (/Media/Out_the_box_wo_stick.jpg)
+
+![Remote control w/o joysticks] (./Media/Out_the_box_wo_stick.jpg)
 
 Wiring from the buttons that would go to the Arduino
 ![Wiring] (/Media/After_conn.jpg)
