@@ -16,14 +16,15 @@ The remote control was modified and connected to the Arduino.
 
 The remote control without the backpanel
 
-![Remote control without backpanel] (./Media/Out_the_box.jpg)
+![Remote control without backpanel](Media/Out_the_box.jpg)
 
 The remote control with the joysticks removed
 
-![Remote control w/o joysticks] (./Media/Out_the_box_wo_stick.jpg)
+![Remote control w/o joysticks](Media/Out_the_box_wo_stick.jpg)
 
 Wiring from the buttons that would go to the Arduino
-![Wiring] (/Media/After_conn.jpg)
+
+![Wiring](Media/After_conn.jpg)
 
 ## The Way It Works
 As mentioned, it was a pretty rudimentary implementation. So, here's how it works.
@@ -37,9 +38,9 @@ The path for the car was created by laying out white paper on either side of the
 A piece of paper was kept at the end to symbolise the end of the track.
 
 ## Results
-![Run 1] (/Media/Video1.gif)
+![Run 1](Media/Video1.gif)
 
-![Run 2] (/Media/Video2.gif)
+![Run 2](Media/Video2.gif)
 
 Two neural networks were trained on the dataset
 - VGG Arch : 99.9% accuracy
