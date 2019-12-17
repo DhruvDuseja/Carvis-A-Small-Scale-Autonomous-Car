@@ -1,2 +1,3 @@
-# Carvis-A-Small-Scale-Autonomous-Car
-A small-scale rudimentary implementation of a self driving car
+# Alt-Carvis-A-Small-Scale-Autonomous-Car
+### A small-scale rudimentary implementation of a self driving car :red_car:
+
