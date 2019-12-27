@@ -33,6 +33,9 @@ As mentioned, it was a pretty rudimentary implementation. So, here's how it work
 3. The frames are preprocessed and passed to a neural network (based on the VGG architecture.)
 4. The neural net output is fed into the Arduino, which is hooked onto the remote control, hence controlling the car.
 
+Put it all together
+![Pipeline](Media/Pipeline.jpeg)
+
 ## The Dataset
 The path for the car was created by laying out white paper on either side of the car to give it "boundaries".
 A piece of paper was kept at the end to symbolise the end of the track.
