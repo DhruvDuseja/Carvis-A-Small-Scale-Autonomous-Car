@@ -34,6 +34,7 @@ As mentioned, it was a pretty rudimentary implementation. So, here's how it work
 4. The neural net output is fed into the Arduino, which is hooked onto the remote control, hence controlling the car.
 
 Put it all together
+
 ![Pipeline](Media/Pipeline.jpeg)
 
 ## The Dataset
