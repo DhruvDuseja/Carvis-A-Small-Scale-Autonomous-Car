@@ -53,4 +53,4 @@ Two neural networks were trained on the dataset
 The car had to be run in steps, as the actual speed was too high, which is why it appears jerk-y.
 A delay was also added to allow for frames to be gotten and processed.
 
-### And last but not least, credits to [Shaun Fernandes](https://github.com/shaunferns26)
+### And last but not least, credits to [Shaun Fernandes](https://github.com/Shaun-Fernandes)
